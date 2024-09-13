@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kkudar.github.io/qMp/sitemap.qMp.gz
